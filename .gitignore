@@ -1,0 +1,6 @@
+# Ignore IDE related paths
+/.idea
+/b-ball-score.iml
+
+# Ignore Node related paths
+/node_modules
